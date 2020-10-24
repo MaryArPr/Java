@@ -21,6 +21,6 @@ public class task6 {
             System.out.println("Программа выполнена корректно");
         }
 
-//
+
     }
 }
